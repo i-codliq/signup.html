@@ -6,4 +6,3 @@ A simple login page built with HTML and CSS
   - HTML  
   - CSS  
 
-!{الشكل}(learn/photo_2025-10-06_14-36-04.jpg)
